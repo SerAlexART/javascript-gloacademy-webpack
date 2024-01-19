@@ -1,0 +1,1 @@
+(()=>{"use strict";console.log("Index.js - test."),console.log("Burger"),console.log("Slider"),console.log("Library Slider")})();
