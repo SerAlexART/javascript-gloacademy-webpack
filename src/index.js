@@ -1,11 +1,9 @@
 'use strict';
 
-console.log('Index.js - test.');
+// console.log('Index.js - test.');
 
-import burger from './modules/burger';
-import sliderOne from './modules/slider';
-import sliderTwo from './modules/librarySlider';
+import one from './modules/one';
+import two from './modules/two';
 
-burger();
-sliderOne();
-sliderTwo();
+one();
+two();
