@@ -10,6 +10,9 @@
   },
   "author": "Ser Alex",
   "license": "ISC",
+  "dependencies": {
+    "swiper": "^11.0.6"
+  },
   "devDependencies": {
     "webpack": "^5.89.0",
     "webpack-cli": "^5.1.4",
