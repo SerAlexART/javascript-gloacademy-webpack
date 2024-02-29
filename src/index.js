@@ -10,6 +10,7 @@ import validationForm from './modules/validationForm';
 import tabs from './modules/tabs';
 import slider from './modules/slider';
 import swiper from './modules/swiper';
+import smoothScroll from './modules/smoothScroll';
 import sendForm from './modules/sendForm';
 
 // import one from './modules/one';
@@ -27,6 +28,7 @@ validationForm('form3');
 tabs();
 slider();
 swiper();
+smoothScroll('[href = "#service-block"]', 'service-block');
 
 
 // Передаём аргумент
